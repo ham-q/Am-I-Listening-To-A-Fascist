@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(61, 68, 67);
+  box-sizing: border-box;
+}
+
+main {
+  width: 70%;
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0px 10px 10px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  font-family:'Segoe UI Light', light, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  opacity: 70%;
+}
