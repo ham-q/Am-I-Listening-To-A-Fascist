@@ -30,3 +30,13 @@ footer {
   opacity: 70%;
   padding: 2%;
 }
+
+.quiz-box {
+  color: #ffffff;
+  width: 50%;
+}
+
+.quiz-box:hover {
+  color: #ffffff;
+  font-weight: bold;
+}

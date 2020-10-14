@@ -4,8 +4,13 @@ permalink: quiz
 ---
 
 <div id="quiz"></div>
-<button class="btn btn-dark-green">Strongly True</button>
-<button class="btn btn-success">True</button>
-<button class="btn btn-blue-grey">Neutral</button>
-<button class="btn btn-danger">False</button>
-<button class="btn btn-unique">Strongly False</button>
+<br>
+<button class="btn quiz-box btn-dark-green py-3">Strongly True</button>
+<br>
+<button class="btn quiz-box btn-success py-3">True</button>
+<br>
+<button class="btn quiz-box btn-blue-grey py-3">Neutral</button>
+<br>
+<button class="btn quiz-box btn-danger py-3">False</button>
+<br>
+<button class="btn quiz-box btn-unique py-3">Strongly False</button>
