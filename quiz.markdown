@@ -3,7 +3,8 @@ layout: quiz
 permalink: quiz
 ---
 
-<div id="quiz"></div>
+<p id="points" class="font-italic text-default"></p>
+<p id="quiz"></p>
 <br>
 <button class="btn quiz-box btn-dark-green py-3">Strongly True</button>
 <br>
