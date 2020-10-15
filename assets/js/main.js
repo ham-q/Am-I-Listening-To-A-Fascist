@@ -20,20 +20,20 @@ const points = [
 ];
 
 const descriptions = [
-    "Does the person in question hold 'tradional values' in high regard, or reject the ideas of progressivism?",
-    "Modernism here refers to the enlightenment. Does the person reject the enlightenment or enlightenment values? (ie. equality, democracy, freedom of speech)",
-    "Is the person in question an anti-intellectual? For example will they disregard science from 'biased sources' with no real refutation or have a disdain for intellectual curiosity?",
-    "Does the person in question hold a dogmatic contempt towards those who disagree with them and try to poke holes in their way of thinking?",
+    "Does the person in question hold 'traditional values' in high regard, or reject the ideas of progressivism?",
+    "Modernism here refers to the enlightenment. Does the person reject the Enlightenment or enlightenment values? (ie. equality, democracy, freedom of speech)",
+    "Is the person in question an anti-intellectual? For example, will they disregard science from 'biased sources' with no real refutation or have a disdain for intellectual curiosity?",
+    "Does this person hold a dogmatic contempt for those who try to refute their baseless or vague claims or refuse to update incorrect positions when presented with evidence?",
     "Does the person in question seek to exploit a fear of others? (ie. migrants, minority groups)",
-    "Does the person in question lay down points to engage a middle class base? (ie. 'they're coming for your small business', 'the working class are trying to usurp you')",
-    "Does the persion in question focus heavily on a specific narrative, usually that of something bringing down the country/civilisation? (think QAnon, civil wair baiting, etc.)",
-    "Do the enemies they present both seem pathetic yet unbelievely powerful? (ie. SJWs are cringy snowflakes but also control our institutions)",
-    "Fascism requires a perptual enemy to fight against, and will swap to new ones once others go away. Is there ever triumph or respite when it comes to this person's political struggle?",
+    "Does the person in question lay down points to engage a middle-class base? (ie. 'they're coming for your small business', 'the working class are trying to usurp you')",
+    "Does the person in question focus heavily on a specific narrative, usually that of something bringing down the country/civilisation? (think QAnon, civil wair baiting, etc.)",
+    "Do the enemies they present both seem pathetic yet unbelievably powerful? (ie. SJWs are cringy snowflakes but also control our institutions)",
+    "Fascism requires a perpetual enemy to fight against and will swap to new ones once others go away. Is there ever triumph or respite when it comes to this person's political struggle?",
     "Does this person consider outsiders to be weaker or inferior to the in-group? (think the dehumanisation of those from other countries or political doctrines)",
     "Does this person prime their audience, indirectly or directly, to give their life to a cause? (figuratively by dedicating free time to cause or literally)",
-    "Does this person hold a disdain for women and 'the sexually deviant' in comparison to straight men? (or actively rejects their gaining of rights)",
+    "Does this person hold disdain for women and 'the sexually deviant' in comparison to straight men? (or actively rejects their gaining of rights)",
     "Does this person exploit the idea of populism to suit their goals? (ie. caring about worker rights but only when it's against migrants or only caring about gender rights when it comes to family courts)",
-    "Does this person use a lot of ideology specific terminology? (think incels with their cavelcade of terms, not people using technical language)"
+    "Does this person use a lot of ideology specific terminology? (think incels with their cavalcade of terms, not people using technical language)"
 ];
 
 var i;
