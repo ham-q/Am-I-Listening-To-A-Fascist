@@ -4,4 +4,7 @@ permalink: results
 ---
 
 <p id="test"></p>
-<p id="results"></p>
+<br>
+<div class = "text-center d-flex justify-content-center">
+<p id="results" class="w-50"></p>
+</div>

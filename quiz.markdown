@@ -4,7 +4,9 @@ permalink: quiz
 ---
 
 <p id="points" class="font-italic text-default"></p>
-<p id="quiz"></p>
+<div class = "text-center d-flex justify-content-center">
+<p id="quiz" class="w-50"></p>
+</div>
 <br>
 <button class="btn quiz-box btn-dark-green py-3" onclick="nextQuestion('fascist', '1.5')">Strongly True</button>
 <br>
