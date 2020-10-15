@@ -40,3 +40,13 @@ footer {
   color: #ffffff;
   font-weight: bold;
 }
+
+.back-box {
+  color: #ffffff;
+  width: 30%;
+}
+
+.back-box:hover {
+  color: #ffffff;
+  font-weight: bold;
+}
