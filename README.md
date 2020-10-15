@@ -1,0 +1,2 @@
+<h1>Am I listening to a fascist?</h1>
+<p>This is version 1 of an online quiz to sus out potential crypto-fascists, any suggestions for question alterations or perhaps you're getting a certain result you didn't expect, please msg me about it</p>
