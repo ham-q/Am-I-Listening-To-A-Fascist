@@ -25,10 +25,19 @@ function deduceRestults(fasc, net, antifa) {
 
 function displayResults(score) {
     if (score > 0.6) {
+        var img = document.createElement("img");
+        img.src = "assets/images/FascistResult.png";
+        testContainer.appendChild(img);
         resultContainer.innerHTML = "fascist lol";
     } else if (score < 0.2) {
+        var img = document.createElement("img");
+        img.src = "assets/images/AntifaResult.png";
+        testContainer.appendChild(img);
         resultContainer.innerHTML = "antifa freddy";
     } else {
+        var img = document.createElement("img");
+        img.src = "assets/images/NeutralResult.png";
+        testContainer.appendChild(img);
         resultContainer.innerHTML = "neutral lmaooo";
     }
 }
